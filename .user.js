@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube - Force Watch Sidebar Width to 500px
+// @name         YouTube - Force Watch Sidebar Width
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Forces --ytd-watch-flexy-sidebar-width to 500px on watch pages (overrides auto-expand on scroll etc.)
